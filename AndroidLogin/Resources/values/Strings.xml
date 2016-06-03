@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Login_SignIn_Button"><b>Sign In</b></string>
+    <string name="Login_ResetPassword_Hint"><b><u>Reset Password</u></b></string>
+    <string name="Login_SignUp_Text"><b>Dont have an account? <u>Si</u>g<u>n up!</u></b></string>
+</resources>
